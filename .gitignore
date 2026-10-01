@@ -280,3 +280,10 @@
 # OSX
 .DS_Store
 .AppleDouble
+
+# OS / editor
+._*
+Thumbs.db
+Desktop.ini
+*.swp
+.idea/
